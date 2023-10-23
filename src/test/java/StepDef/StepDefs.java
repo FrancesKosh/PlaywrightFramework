@@ -1,2 +1,4 @@
-package StepDef;public class StepDefs {
+package StepDef;
+
+public class StepDefs {
 }

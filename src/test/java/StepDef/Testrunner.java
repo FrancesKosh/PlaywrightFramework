@@ -1,2 +1,4 @@
-package StepDef;public class Testrunner {
+package StepDef;
+
+public class Testrunner {
 }

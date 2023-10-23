@@ -1,2 +1,4 @@
-package StepDef;public class Features {
+package StepDef;
+
+public class Features {
 }
